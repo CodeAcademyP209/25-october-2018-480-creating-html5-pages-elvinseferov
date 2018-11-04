@@ -1,0 +1,25 @@
+
+ul{
+    box-sizing:border-box;
+    margin:100px;
+    padding:20px;
+    top: 0px;
+    position: relative;
+    left:0px;
+
+    
+}
+
+ul li {
+    color:white;
+    display: inline-block;
+    position: relative;
+    top: -145px;
+    left:200px;
+}
+
+button{
+    position: relative;
+    top: -270px;
+    left:1100px;
+}
